@@ -1,7 +1,7 @@
 ---
 name: Task
 about: A development task or feature
-labels: type: task
+labels: task
 ---
 
 ### Summary
