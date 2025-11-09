@@ -13,6 +13,6 @@ labels: type: task
 
 ### Steps / Notes
 - Owner: @
-- Estimate: estimate: small/medium/large
+- Estimate: small/medium/large
 - Related issue/PR:
 
