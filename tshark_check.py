@@ -1,6 +1,6 @@
 import subprocess
 import os
-import pyshark
+
 # Option 1: Assuming tshark is in PATH
 try:
     subprocess.run(["tshark", "--version"], check=True)
