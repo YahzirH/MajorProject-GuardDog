@@ -10,9 +10,3 @@ labels: task
 ### Acceptance criteria
 - [ ] done item one
 - [ ] done item two
-
-### Steps / Notes
-- Owner: @
-- Estimate: small/medium/large
-- Related issue/PR:
-
